@@ -7,3 +7,7 @@ body {
   background-color: red;
   font-size: 14px;
 }
+
+li {
+  color: #000;
+}
